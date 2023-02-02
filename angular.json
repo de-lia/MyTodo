@@ -28,7 +28,7 @@
             ],
             "styles": [
               "./node_modules/materialize-css/dist/css/materialize.min.css",
-              "./node_modules/material-icons/css/material-icons.css"'
+              "./node_modules/material-icons/css/material-icons.css",
               "src/styles.css"
             ],
             "scripts": []
